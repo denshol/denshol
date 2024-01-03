@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=깃허브%20특%20강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=깃허브%20특%20강&fontSize=90&animation=fadeIndesc=한번에%20깃허브%20끝내기)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=denshol)](https://github.com/denshol)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=denshol&show_icons=true&theme=onedark)](https://github.com/denshol)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshol)](https://github.com/denshol/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshol &layout=compact)](https://github.com/denshol/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denshol&layout=compact)](https://github.com/denshol/github-readme-stats)
 
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
